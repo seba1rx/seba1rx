@@ -2,5 +2,5 @@
 <h3 align="center">Backend developer located in Chile</h3>
 
 - 🔭 I am currently working on Engine Framework, a PHP framework with a minimal footprint, attempting to use as few dependencies as possible.
-- 📫 How to reach me **sebastian.basilio.a@gmail.com**
+- 📫 You can contact me at **sebastian.basilio.a@gmail.com**
 
